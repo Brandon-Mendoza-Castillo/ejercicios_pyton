@@ -1,0 +1,7 @@
+Ejercicio 18
+Convierte un número decimal
+a un número entero
+decimal = 8 55
+entero
+= int(decimal)
+printl@enterobl
