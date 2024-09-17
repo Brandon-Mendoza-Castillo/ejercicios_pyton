@@ -1,0 +1,8 @@
+Ejercicio 17
+Extrae una subcadena de
+una cadena dada
+cadena
+= 'hola'
+subcadena
+= cadena[e:2]
+print(subcadena)
