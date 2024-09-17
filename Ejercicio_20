@@ -1,0 +1,6 @@
+Ejercicio 20
+Encuentra y muestra el último
+carácter de una cadena
+cadena =' python '
+ultimo caracter = cadena[-l]
+print(ultimo_caracter)
