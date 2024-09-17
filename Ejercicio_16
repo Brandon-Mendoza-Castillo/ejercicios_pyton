@@ -1,0 +1,7 @@
+Ejercicio 16
+Calcula 2 elevado a la potencia
+sin utilizar el operador **
+resultado
+= pow(2, 4)
+print("Res =
+, resultado)
