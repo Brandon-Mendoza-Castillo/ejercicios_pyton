@@ -1,0 +1,4 @@
+frase = input("Ingresa una frase: ").lower()
+vocales = 'aeiou'
+contador = sum(1 for letra in frase if letra in vocales)
+print(f"La frase tiene {contador} vocales.")
