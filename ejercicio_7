@@ -1,0 +1,3 @@
+millas = float(input("Ingresa la cantidad de millas: "))
+kilometros = millas * 1.60934
+print(f"{millas} millas son {kilometros} kilómetros.")
