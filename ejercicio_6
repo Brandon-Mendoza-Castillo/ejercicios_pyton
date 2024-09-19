@@ -1,0 +1,4 @@
+anio_nacimiento = int(input("Ingresa tu año de nacimiento: "))
+anio_actual = int(input("Ingresa el año actual: "))
+edad = anio_actual - anio_nacimiento
+print(f"Tienes {edad} años.")
